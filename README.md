@@ -4,4 +4,6 @@ This is a script that work with Wineget and WOL to install Adobe Acrobat XI on L
 
 Acrobat Xi is east to install and require only one dependencies althrough is very old version
 
+Adapted from PlayOnLinux
+
 ![Screenshot](/screen.png)
